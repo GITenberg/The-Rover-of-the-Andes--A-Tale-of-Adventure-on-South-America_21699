@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/333
     wikipedia: http://en.wikipedia.org/wiki/Robert_Michael_Ballantyne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21699#The-Rover-of-the-Andes--A-Tale-of-Adventure-on-South-America
 gutenberg_bookshelf:
 - South America
 - Children's Fiction
